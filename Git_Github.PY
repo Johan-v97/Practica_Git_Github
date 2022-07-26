@@ -1,4 +1,4 @@
-# GIT BASIC COMMANDS
+# GIT BASIC COMMANDS = ES IMPORTANTE ESCRIBIR TODOOOO EXACTAMENTE IGUAL -CASE SENSITIVE-
 
 # GIT PULL
 
@@ -16,4 +16,6 @@
 # GIT CLONE
 
 # GIT STATUS = Para ver el estado de nuestros archivos
+
+# GIT DIFF = Para ver los cambios efectuados en los archivos
 
